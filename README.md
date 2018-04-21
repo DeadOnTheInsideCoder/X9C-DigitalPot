@@ -1,5 +1,6 @@
 # X9C-DigitalPot
 X9C_DigiPot.cpp - Library for controlling the X9C102 1kohm,<br/>
+
                                X9C103 10kohm,<br/>
                                X9C104 50kohm,<br/>
                                X9C503 100kohm.<br/>
